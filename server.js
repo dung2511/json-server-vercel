@@ -11,7 +11,7 @@ server.use(jsonServer.rewriter({
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
 server.use(router)
-server.listen(3000, () => {
+server.listen(3004, () => { //3000 là port của api nhé, đổi bao nhiêu tuỳ ý mình nhé em
     console.log('JSON Server is running')
 })
 
