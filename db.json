@@ -595,5 +595,6 @@
       "bao_hanh": "Bảo hành: 4 năm"
     }
   ],
-  "sort_price": ["Mặc định", "Giá từ thấp tới cao", "Giá từ cao tới thấp"]
+  "sort_price": ["Mặc định", "Giá từ thấp tới cao", "Giá từ cao tới thấp"],
+  "user": []
 }
