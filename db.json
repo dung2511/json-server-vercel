@@ -596,5 +596,10 @@
     }
   ],
   "sort_price": ["Mặc định", "Giá từ thấp tới cao", "Giá từ cao tới thấp"],
-  "user": []
+  "user": [
+    {
+      "email": "vandung@gmail.com",
+      "password": 1234567
+    }
+  ]
 }
