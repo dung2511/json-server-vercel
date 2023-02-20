@@ -595,5 +595,46 @@
       "bao_hanh": "Bảo hành: 4 năm"
     }
   ],
-  "sort_price": ["Mặc định", "Giá từ thấp tới cao", "Giá từ cao tới thấp"]
+  "sort_price": ["Mặc định", "Giá từ thấp tới cao", "Giá từ cao tới thấp"],
+  "product_food": [
+    {
+      "fast_food": [
+        {
+          "id": 1,
+          "name": "Pizza",
+          "price": 20,
+          "quantity": 20,
+          "src": "../assets/images/slider_product/pizza.png"
+        },
+        {
+          "id": 2,
+          "name": "Salad",
+          "price": 20,
+          "quantity": 20,
+          "src": "../assets/images/slider_product/salad.png"
+        },
+        {
+          "id": 3,
+          "name": "Bevergares",
+          "price": 20,
+          "quantity": 20,
+          "src": "../assets/images/slider_product/beverages.png"
+        },
+        {
+          "id": 4,
+          "name": "Desserts",
+          "price": 20,
+          "quantity": 20,
+          "src": "../assets/images/slider_product/desserts.png"
+        },
+        {
+          "id": 5,
+          "name": "Pasta",
+          "price": 20,
+          "quantity": 20,
+          "src": "../assets/images/slider_product/pasta.png"
+        }
+      ]
+    }
+  ]
 }
